@@ -67,7 +67,9 @@ user_groups:
 - Visitors
 ---
 
-I am a biogeographer with broad interests in island biogeography, community ecology, macroecology, biostatistics and biodiversity research. My main research aims to understand the role of historical and ecological processes in shaping insular communities and to understanding and quantifying the response of island biodiversity to human-mediated disturbances. Since 2015, I am an Assistant Professor at the Université  de Pau et des Pays de l'Adour (UPPA) where I am in charge of the biostatistics courses for undergraduate and graduate students in biology. I am member of the UMR 5254 CNRS-UPPA IPREM and an external collaborator of the Centre for Ecology, Evolution and Environmental Changes (cE3c) of the University of Lisbon. 
+I am a biogeographer with broad interests in island biogeography, community ecology, macroecology, biostatistics and biodiversity research. My main research aims to understand the role of historical and ecological processes in shaping insular communities and to understanding and quantifying the response of island biodiversity to human-mediated disturbances. 
 
-I also act as an associate editor for [Community Ecology journal] {"https://akademiai.com/loi/168"} and [PlosOne] (url = "https://plosone.org").
+Since 2015, I am an Assistant Professor at the Université  de Pau et des Pays de l'Adour (UPPA) where I am in charge of the biostatistics courses for undergraduate and graduate students in biology. I am member of the UMR 5254 CNRS-UPPA IPREM and an external collaborator of the Centre for Ecology, Evolution and Environmental Changes (cE3c) of the University of Lisbon. 
+
+I also act as an associate editor for [Community Ecology journal]("https://akademiai.com/loi/168") and [PlosOne] (url = "https://plosone.org").
 
