@@ -18,7 +18,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "classic"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -90,7 +90,7 @@ email = "francois.rigal@univ-pau.fr"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bâtiment IBEAS Avenue de l'Université 64000 PAU | France"}
+address = "Université de Pau et des Pays de l’Adour IPREM UMR 5254 CNRS-UPPA IBEAS BP 1155 Avenue de l’Université 64 013 PAU CEDEX"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -132,9 +132,9 @@ coordinates = {latitude = "43.316028", longitude = "-0.363974"}
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-# date_format = "Jan 2, 2006"
+ date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-# time_format = "3:04 PM"
+ time_format = "3:04 PM"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
 address_format = "en-us"
