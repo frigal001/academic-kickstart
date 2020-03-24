@@ -24,11 +24,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-# - Island biogeography
-# - Community ecology
-# - Functional diversity
-# - Biostatistics
+ Interests:
+ - Island biogeography
+ - Community ecology
+ - Functional diversity
+ - Biostatistics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
