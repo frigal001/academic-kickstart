@@ -2,7 +2,7 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Roboto"
+google_fonts = "Roboto"
 
 # Font families
 heading_font = "Roboto"
