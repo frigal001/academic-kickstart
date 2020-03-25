@@ -2,14 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "partition"
-summary: "A fast and flexible framework for agglomerative partitioning in R"
+summary: "Assess alpha and beta diversity in all their dimensions (taxon, phylogenetic and functional diversity)"
 authors: []
 tags: [rpackage, partition]
 categories: [r]
 date: 2019-10-09T08:00:20-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://uscbiostats.github.io/partition/"
+external_link: "https://cran.r-project.org/web/packages/BAT/index.html"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
