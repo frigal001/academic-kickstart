@@ -28,18 +28,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "R Packages"
     tag = "rpackage"
-  
-  [[content.filter_button]]
-    name = "Shiny Apps"
-    tag = "shinyapp"
-    
-  [[content.filter_button]]
-    name = "Learn R"
-    tag = "education"
-    
-  [[content.filter_button]]
-    name = "Other Projects"
-    tag = "other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
