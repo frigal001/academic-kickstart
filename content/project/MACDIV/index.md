@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "partition"
+title: "MACDIV"
 summary: "Macaronesian Islands as a testing ground to assess biodiversity drivers at multiple scales"
 authors: []
 tags: [Island biogeography, MACDIV]
