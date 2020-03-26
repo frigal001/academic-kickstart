@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PYRPEAT"
-summary: "A fast and flexible framework for agglomerative partitioning in R"
+summary: "Dynamique spatio-temporelle des communautés microbiennes au sein des tourbières de l’étage montagnard pyrénéen dans un contexte de changement climatique"
 authors: []
 tags: [Peatland research, PYRPEAT]
 categories: [r]
