@@ -30,6 +30,10 @@ subtitle = ""
      tag = "Island biogeography"
      
    [[content.filter_button]]
+     name = "Island conservation"
+     tag = "Island conservation"
+     
+   [[content.filter_button]]
      name = "Peatland research"
      tag = "Peatland research"
   
@@ -46,7 +50,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
