@@ -50,7 +50,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -70,7 +70,7 @@ subtitle = ""
   
   # Background image.
   # image = "AZORES.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
