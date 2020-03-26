@@ -2,14 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "partition"
-summary: "A fast and flexible framework for agglomerative partitioning in R"
+summary: "Macaronesian Islands as a testing ground to assess biodiversity drivers at multiple scales"
 authors: []
-tags: [rpackage, partition]
+tags: [rpackage, MACDIV]
 categories: [r]
 date: 2019-10-09T08:00:20-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://uscbiostats.github.io/partition/"
+external_link: "https://ce3c.ciencias.ulisboa.pt/research/projects/ver.php?id=61/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-partition is a fast and flexible framework for agglomerative partitioning. partition uses an approach called Direct-Measure-Reduce to create new variables that maintain the user-specified minimum level of information. Each reduced variable is also interpretable: the original variables map to one and only one variable in the reduced data set. partition is flexible, as well: how variables are selected to reduce, how information loss is measured, and the way data is reduced can all be customized.
+Focusing on local scales, MACDIV intends to dissect the taxonomic, evolutionary and functional basis of spatial heterogeneity in diversity, providing opportunities to understand some of the key processes that have led to the great diversification of life in Macaronesia. Further, given that the ‘biodiversity crisis’ is nowhere more apparent and need of urgent actions on oceanic islands, we expect that MACDIV will provide part of the basis for the development of future conservation strategies for this unique ecosystem.
