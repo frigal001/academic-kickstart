@@ -4,7 +4,7 @@
 title: "BAT"
 summary: "Assess alpha and beta diversity in all their dimensions (taxon, phylogenetic and functional diversity)"
 authors: []
-tags: [rpackage, BAT]
+tags: [R package, BAT]
 categories: [r]
 date: 2019-10-09T08:00:20-07:00
 
