@@ -26,12 +26,16 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+     name = "Island biogeography"
+     tag = "Island biogeography"
+     
+   [[content.filter_button]]
+     name = "Peatland research"
+     tag = "Peatland research"
   
    [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+     name = "R package"
+     tag = "R package"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
