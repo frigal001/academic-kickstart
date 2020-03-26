@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "partition"
+title: "PYRPEAT"
 summary: "A fast and flexible framework for agglomerative partitioning in R"
 authors: []
 tags: [Peatland research, PYRPEAT]
