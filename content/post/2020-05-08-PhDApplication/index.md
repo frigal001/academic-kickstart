@@ -1,13 +1,13 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+title: PhD position at the University of Pau (France) to study Macroecological and Macroevolutionary Patterns of Island Radiation 
+subtitle: We search for a highly motivated PhD candidate to work on the global macroecological/macroevolutionary patterns of island radiation
+summary: 
 authors:
 - admin
 tags: []
 categories: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
+date: "2020-05-08"
+lastMod: ""
 featured: false
 draft: false
 
