@@ -5,7 +5,6 @@ summary:
 authors:
 - admin
 tags: []
-url_pdf = "publication/Kostsakiozi_BJLS_2013.pdf"
 categories: []
 date: "2020-05-08"
 lastMod: ""
