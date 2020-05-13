@@ -26,6 +26,10 @@ image:
 projects: []
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, dpi = 320)
+```
+
 
 ## PhD project
 
