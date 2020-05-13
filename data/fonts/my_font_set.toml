@@ -1,11 +1,11 @@
 # Font style metadata
-name = "Fira Sans Condensed"
+name = "Overpass"
 
 # Optional Google font URL
-google_fonts = "Fira Sans Condensed"
+google_fonts = "Overpass"
 
 # Font families
-heading_font = "Fira Sans Condensed"
-body_font = "Fira Sans Condensed"
-nav_font = "Fira Sans Condensed"
-mono_font = "Fira Sans Condensed"
+heading_font = "Overpass"
+body_font = "Overpass"
+nav_font = "Overpass"
+mono_font = "Overpass"
