@@ -4,12 +4,12 @@ subtitle: We search for a highly motivated PhD candidate to work on the global m
 # summary: 
 # authors:
 # - admin
-tags: []
-categories: []
-date: "2020-05-08"
-lastMod: ""
-featured: false
-draft: false
+# tags: []
+# categories: []
+# date: "2020-05-08"
+# lastMod: ""
+# featured: false
+# draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -48,7 +48,7 @@ Desirable:
 For more information, please contact françois.rigal@univ.pau.fr
 To apply please send one document comprising a CV, Cover letter, Copy of the diploma, Candidate's MSc or equivalent (marks and ranking), Letters of recommendation, Contact details for two references to françois.rigal@univ.pau.fr
 
-Links to the official annoucement: https://ed-sea.univ-pau.fr/_attachments/offre-de-these-article/PhDProjectRigal2020_IslandRadiation.pdf?download=true
+Link to the official annoucement: https://ed-sea.univ-pau.fr/_attachments/offre-de-these-article/PhDProjectRigal2020_IslandRadiation.pdf?download=true
 
 
 
