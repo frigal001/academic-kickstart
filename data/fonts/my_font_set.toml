@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Overpass"
+google_fonts = "Fira Sans"
 
 # Font families
-heading_font = "Overpass"
-body_font = "Overpass"
-nav_font = "Overpass"
-mono_font = "Overpass"
+heading_font = "Fira Sans"
+body_font = "Fira Sans"
+nav_font = "Fira Sans"
+mono_font = "Fira Sans"
