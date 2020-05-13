@@ -84,39 +84,6 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
-author: Andrew Heiss
-
-instructor: 
-  name: Dr. Andrew Heiss
-  email: aheiss@gsu.edu
-  url: "https://www.andrewheiss.com"
-  twitter: andrewheiss
-  github: andrewheiss
-  office: "357 Andrew Young School"
-  contact_policy: >-
-    E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages awithin 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
-  appointment_url: https://calendly.com/andrewheiss/meeting/
-
-course:
-  number: "PMAP 8921"
-  semester: "Maymester 2020"
-  days: "Every day"
-  time: "Whenever"
-  # location: "Online only (thanks, COVID-19, for ruining everything)"
-  dates: "May 11–June 1, 2020"
-  github: "andrewheiss/datavizm20.classes.andrewheiss.com"
-  copyrightYear: "2020"
-  slack: "https://gsudatavizm2020.slack.com"
-
-university: 
-  name: Georgia State University
-  url: "https://www.gsu.edu"
-
-school:
-  name: Andrew Young School of Policy Studies
-  url: "https://aysps.gsu.edu/"
-
-
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "francois.rigal@univ-pau.fr"
 #phone = "888 888 88 88"
