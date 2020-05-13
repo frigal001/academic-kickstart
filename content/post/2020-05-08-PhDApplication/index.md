@@ -26,14 +26,9 @@ image:
 projects: []
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(warning = FALSE, message = FALSE, dpi = 320)
-```
-
-
 ## PhD project
 
-PhD Project: Emerging Macroecological and Macroevolutionary Patterns of Island Radiation: A Global Assessment.
+## Emerging Macroecological and Macroevolutionary Patterns of Island Radiation: A Global Assessment.
 
 Understanding the origin and maintenance of biodiversity is a key issue in macroecology and macroevolution. In this quest, islands along with the exceptional species radiations (rapid episodes of diversification from a common ancestor) they harbor have always served as testing ground for ecological/evolutionary theories. Despite recent accumulation of data for islands, we still lack a synthetic view of what island radiations are and no formal extensive comparative analysis across island systems and lineages has been yet achieved. By means of meta-analysis, this PhD intends to perform a first global assessment of island radiation in order to estimate the tempo and mode of diversification among lineages and archipelagos and to further examine the relationships between diversification patterns, emerging community structure and biogeographic processes. At first, the project will focus on oceanic archipelagos (islands formed over oceanic plates and never connected to continental landmasses) since they harbor most of the spectacular radiations reported in the literature. In the course of the research project, other types of islands or island-like systems (continentals, mountains tops) might be taken into consideration. Overall, we expect this project to provide strong baseline information regarding the eco-evolutionary processes structuring island communities.
 
