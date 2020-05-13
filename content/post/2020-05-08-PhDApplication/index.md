@@ -1,9 +1,9 @@
 ---
 title: PhD position at the University of Pau (France) to study Macroecological and Macroevolutionary Patterns of Island Radiation 
 subtitle: We search for a highly motivated PhD candidate to work on the global macroecological/macroevolutionary patterns of island radiation
-summary: 
-authors:
-- admin
+# summary: 
+# authors:
+# - admin
 tags: []
 categories: []
 date: "2020-05-08"
@@ -43,6 +43,12 @@ Desirable:
 – Very good spoken and written English communication skills
 For more information, please contact françois.rigal@univ.pau.fr
 To apply please send one document comprising a CV, Cover letter, Copy of the diploma, Candidate's MSc or equivalent (marks and ranking), Letters of recommendation, Contact details for two references to françois.rigal@univ.pau.fr
+
+Links to the official annoucement: https://ed-sea.univ-pau.fr/_attachments/offre-de-these-article/PhDProjectRigal2020_IslandRadiation.pdf?download=true
+
+
+
+
 
 
 
