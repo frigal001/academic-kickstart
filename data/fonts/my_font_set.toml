@@ -1,11 +1,11 @@
 # Font style metadata
-name = "Classic"
+name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Lato"
+google_fonts = "DM+Mono:wght@300"
 
 # Font families
-heading_font = "Lato"
-body_font = "Lato"
-nav_font = "Lato"
-mono_font = "Lato"
+heading_font = "DM Mono"
+body_font = "DM Mono"
+nav_font = "DM Mono"
+mono_font = "DM Mono"
