@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Roboto+Mono:ital,wght@0,100;0,500;1,300"
+google_fonts = "Roboto+Slab:wght@100"
 
 # Font families
-heading_font = "Roboto Mono"
-body_font = "Roboto Mono"
-nav_font = "Roboto Mono"
-mono_font = "Roboto Mono"
+heading_font = "Roboto Slab"
+body_font = "Roboto Slab"
+nav_font = "Roboto Slab"
+mono_font = "Roboto Slab"
