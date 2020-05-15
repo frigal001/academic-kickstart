@@ -25,7 +25,7 @@
   
 [[main]]
   name = "People"  # Title of the link.
-  url = "#People"  # Widget Page folder name.
+  url = "#people"  # Widget Page folder name.
   weight = 50  # Position of the link in the navigation bar.
 
 [[main]]
