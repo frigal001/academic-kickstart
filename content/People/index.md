@@ -1,8 +1,14 @@
 +++
-title: "People"  # Add a page title.
-summary: "Hello!"  # Add a page description.
-date: "2019-01-01T00:00:00Z"  # Add today's date.
-type: "widget_page"  # Page type is a Widget Page
+# A "Meet the Team" section created with the People widget.
+# This section displays people from `content/authors/` which belong to the `user_groups` below.
+
+widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = false  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 68  # Order that this section will appear.
+
+title = "People"
+subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
