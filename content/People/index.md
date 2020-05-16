@@ -9,8 +9,6 @@ title = ""
 +++
 
 
-{{< figure library="true" src="AZORES.jpg" title="" lightbox="true" >}}
-
 ## PhD students
 
 * 2017-2020 - **Etienne Ricky** Co-supervision with [Pr. Béatrice Lauga]("https://iprem.univ-pau.fr/fr/_plugins/mypage/mypage/content/lauga.html"). PhD project: _Role of microbial diversity in the functioning of peatbogs in a context of climate change_. Based at the [Université  de Pau et des Pays de l'Adour (UPPA)]("https://www.univ-pau.fr/")  
