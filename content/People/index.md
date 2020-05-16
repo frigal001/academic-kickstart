@@ -31,6 +31,8 @@ title = ""
 * [**Jagoba Malumbres-Olarte**]("https://ce3c.ciencias.ulisboa.pt//member/jagoba") - Azorean Biodiversity Group, ce3c, University of Azores, Portugal.
 * [**Ana Margarida C. Santos**]("https://guidasanto1.wixsite.com/guida") -  Universidad Autónoma de Madrid, Spain
 
+{{< figure library="true" src="AZORES.jpg" title="A caption" lightbox="true" >}}
+
 
 
 
