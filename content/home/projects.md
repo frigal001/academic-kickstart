@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
-title = "Research"
+title = "Projects"
 subtitle = ""
 
 [content]
@@ -24,22 +24,7 @@ subtitle = ""
    [[content.filter_button]]
      name = "All"
      tag = "*"
-  
-   [[content.filter_button]]
-     name = "Island biogeography"
-     tag = "Island biogeography"
-     
-   [[content.filter_button]]
-     name = "Island conservation"
-     tag = "Island conservation"
-     
-   [[content.filter_button]]
-     name = "Peatland research"
-     tag = "Peatland research"
-  
-   [[content.filter_button]]
-     name = "R package"
-     tag = "R package"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
