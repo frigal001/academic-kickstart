@@ -6,10 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear in.
 
 title = ""
-
-header:
-  caption: ""
-  image: "AZORES.jpg"
 +++
 
 
