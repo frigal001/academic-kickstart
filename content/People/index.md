@@ -23,13 +23,13 @@ title = ""
 
 ## Collaborators
 
-* [Paulo A.V. Borges]("https://ce3c.ciencias.ulisboa.pt/member/paulo-a-v-borges") - Azorean Biodiversity Group, ce3c, University of Azores, Portugal.
-* [Kostas Triantis]("https://kostastriantis.wordpress.com") - University of Athens, Greece.
-* [Pedro Cardoso]("http://biodiversityresearch.org") - Museum of Helsinki, Finland.
-* [Robert J. Whittaker]("https://www.geog.ox.ac.uk/staff/rwhittaker.html") - School of Geography and Environment, University of Oxford, UK.
-* [Thom Matthews]("https://www.birmingham.ac.uk/staff/profiles/gees/matthews-tom.aspx") - School of Geography, Earth and Environmental Sciences, University of Birmingham, UK.
-* [Jagoba Malumbres-Olarte]("https://ce3c.ciencias.ulisboa.pt//member/jagoba") - Azorean Biodiversity Group, ce3c, University of Azores, Portugal.
-* [Ana Margarida C. Santos]("https://guidasanto1.wixsite.com/guida") -  Universidad Autónoma de Madrid, Spain
+* [**Paulo A.V. Borges**]("https://ce3c.ciencias.ulisboa.pt/member/paulo-a-v-borges") - Azorean Biodiversity Group, ce3c, University of Azores, Portugal.
+* [**Kostas Triantis**]("https://kostastriantis.wordpress.com") - University of Athens, Greece.
+* [**Pedro Cardoso**]("http://biodiversityresearch.org") - Museum of Helsinki, Finland.
+* [**Robert J. Whittaker**]("https://www.geog.ox.ac.uk/staff/rwhittaker.html") - School of Geography and Environment, University of Oxford, UK.
+* [**Thom Matthews**]("https://www.birmingham.ac.uk/staff/profiles/gees/matthews-tom.aspx") - School of Geography, Earth and Environmental Sciences, University of Birmingham, UK.
+* [**Jagoba Malumbres-Olarte**]("https://ce3c.ciencias.ulisboa.pt//member/jagoba") - Azorean Biodiversity Group, ce3c, University of Azores, Portugal.
+* [**Ana Margarida C. Santos**]("https://guidasanto1.wixsite.com/guida") -  Universidad Autónoma de Madrid, Spain
 
 
 
