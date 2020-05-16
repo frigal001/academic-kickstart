@@ -24,7 +24,22 @@ subtitle = ""
    [[content.filter_button]]
      name = "All"
      tag = "*"
-
+  
+  [[content.filter_button]]
+    name = "R Packages"
+    tag = "R package"
+    
+  [[content.filter_button]]
+    name = "Island biogeography"
+    tag = "Island biogeography"
+     
+  [[content.filter_button]]
+    name = "Island conservation"
+    tag = "Island conservation"
+     
+  [[content.filter_button]]
+    name = "Peatland research"
+    tag = "Peatland research"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
