@@ -1,7 +1,7 @@
 +++
 # About widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear in.
 
@@ -9,6 +9,7 @@ title = ""
 +++
 
 
+{{< figure library="true" src="AZORES.jpg" title="A caption" lightbox="true" >}}
 
 ## PhD students
 
@@ -32,7 +33,6 @@ title = ""
 * [**Jagoba Malumbres-Olarte**]("https://ce3c.ciencias.ulisboa.pt//member/jagoba") - Azorean Biodiversity Group, ce3c, University of Azores, Portugal.
 * [**Ana Margarida C. Santos**]("https://guidasanto1.wixsite.com/guida") -  Universidad Autónoma de Madrid, Spain
 
-{{< figure library="true" src="AZORES.jpg" title="A caption" lightbox="true" >}}
 
 
 
