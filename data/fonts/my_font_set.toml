@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Karla:300,400,500|IBM+Plex+Sans:300,400,500|Roboto+Mono"
+google_fonts = "Fira+Sans+Condensed:wght@500"
 
 # Font families
-heading_font = "IBM Plex Sans"
-body_font = "Karla"
-nav_font = "IBM Plex Sans"
-mono_font = "Roboto Mono"
+heading_font = "Fira Sans Condensed"
+body_font = "Fira Sans Condensed"
+nav_font = "Fira Sans Condensed"
+mono_font = "Fira Sans Condensed"
