@@ -9,7 +9,7 @@ title = ""
 +++
 
 
-{{< figure library="true" src="AZORES.jpg" title="A caption" lightbox="true" >}}
+{{< figure library="true" src="AZORES.jpg" title="" lightbox="true" >}}
 
 ## PhD students
 
