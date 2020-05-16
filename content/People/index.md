@@ -11,9 +11,9 @@ title = ""
 
 ## PhD students
 
-* 2017-2020 - **Etienne Ricky** Co-supervision with [Pr. Béatrice Lauga]("https://iprem.univ-pau.fr/fr/_plugins/mypage/mypage/content/lauga.html"). PhD project: _Role of microbial diversity in the functioning of peatbogs in a context of climate change_. Based at the [Université  de Pau et des Pays de l'Adour (UPPA)]("https://www.univ-pau.fr/")  
+* 2017-2020 - **Etienne Ricky** Co-supervision with [Pr. Béatrice Lauga](https://iprem.univ-pau.fr/fr/_plugins/mypage/mypage/content/lauga.html). PhD project: _Role of microbial diversity in the functioning of peatbogs in a context of climate change_. Based at the [Université  de Pau et des Pays de l'Adour (UPPA)](https://www.univ-pau.fr/)  
 
-* 2012-2017 - **Ana Luisa Coderniz Picanço** Co-supervision with [Pr. Paulo A.V. Borges]("https://ce3c.ciencias.ulisboa.pt/team/IBBC"). PhD project: _Dynamics of plant-insect pollinator interaction networks in Azores: Evaluation of an ecosystem service_. Based at the University of Azores – [ce3c]("https://ce3c.ciencias.ulisboa.pt/index.php"), University of Lisbon (Portugal)
+* 2012-2017 - **Ana Luisa Coderniz Picanço** Co-supervision with [Pr. Paulo A.V. Borges](https://ce3c.ciencias.ulisboa.pt/team/IBBC). PhD project: _Dynamics of plant-insect pollinator interaction networks in Azores: Evaluation of an ecosystem service_. Based at the University of Azores – [ce3c]("https://ce3c.ciencias.ulisboa.pt/index.php"), University of Lisbon (Portugal)
 
 ## Postdocs
 
