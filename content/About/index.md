@@ -9,9 +9,9 @@ title = ""
 
 {{< figure library="true" src="rigal.jpg" title="" lightbox="true" >}}
 
-**Present address:**
-[Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr)
-[UMR UPPA-CNRS 5254 IPREM](https://iprem.univ-pau.fr)
+**Present address**
+Université de Pau et des Pays de l'Adour
+UMR UPPA-CNRS 5254 IPREM
 IBEAS BP 1155 Avenue de l'Université 
 64 013 PAU CEDEX
 Email: francois.rigal@univ-pau.fr
