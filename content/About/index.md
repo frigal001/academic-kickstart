@@ -7,14 +7,14 @@ weight = 6  # Order that this section will appear in.
 title = ""
 +++
 
+{{< figure library="true" src="rigal.jpg" title="" lightbox="true" >}}
+
 **Present address:**
 [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr)
 [UMR UPPA-CNRS 5254 IPREM](https://iprem.univ-pau.fr)
 IBEAS BP 1155 Avenue de l'Université 
 64 013 PAU CEDEX
 Email: francois.rigal@univ-pau.fr
-
-About me
 
 I am a biogeographer with broad interests in island biogeography, community ecology, macroecology, evolution and biodiversity research. My main research aims to understand the role of historical and ecological processes in shaping communities – in particular insular communities - and to understanding and quantifying the response of communities to human-mediated disturbances.
 
