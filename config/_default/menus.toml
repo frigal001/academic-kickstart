@@ -29,7 +29,7 @@
   weight = 5  # Position of the link in the navigation bar.
 
 [[main]]
-  name = "Contact"
+  name = "About"
   url = "About/"
   weight = 6
 
