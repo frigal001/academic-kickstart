@@ -7,7 +7,7 @@ weight = 6  # Order that this section will appear in.
 title = ""
 +++
 
-{{< figure library="true" src="rigal.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="rigal.jpg" title="" lightbox="true" $image := $resource.Resize "600x400">}}
 
 **Present address**
 Université de Pau et des Pays de l'Adour
