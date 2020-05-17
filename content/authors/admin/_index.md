@@ -73,5 +73,5 @@ I am a biogeographer with broad interests in island biogeography, community ecol
 
 Since 2015, I am an Assistant Professor at the [Université  de Pau et des Pays de l'Adour (UPPA)](https://www.univ-pau.fr/) where I am in charge of the biostatistics courses for undergraduate and graduate students in biology. I am member of the [UMR 5254 CNRS-UPPA IPREM](https://iprem.univ-pau.fr/fr/index.html) and an external collaborator of the [Centre for Ecology, Evolution and Environmental Changes (cE3c)](https://ce3c.ciencias.ulisboa.pt) of the University of Lisbon. 
 
-I also act as an associate editor for [Community Ecology journal](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjWsPL0xrrpAhVUndUKHQWICNQYABAAGgJ3cw&ohost=www.google.com&cid=CAESQeD2jnAn1i0i3RpCR3c63bF8cV6ltkBJx115EOTUttDezQNa8h6dvdeyBxrQt5PqGkupqN1ptW3bKJddwdYJe7PP&sig=AOD64_3STSo4L2zr4F1vWjHRMo4IHrR4vQ&q=&ved=2ahUKEwjF9-r0xrrpAhVKRBoKHUjcAAUQ0Qx6BAgNEAE&adurl=) and [PlosOne](https://plosone.org).
+I also act as an associate editor for [Community Ecology Journal](https://www.springer.com/journal/42974?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAoXv9dE_mz3KkHrMiCbr4mDFcWWXxnudxA4imJc1JipbVVd_8Cj1CRoCE8QQAvD_BwE) and [PlosOne](https://plosone.org).
 
