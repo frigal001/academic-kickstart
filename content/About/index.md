@@ -13,8 +13,7 @@ title = ""
 Université de Pau et des Pays de l'Adour
 UMR UPPA-CNRS 5254 IPREM
 IBEAS BP 1155 Avenue de l'Université 
-64 013 PAU CEDEX
-Email: francois.rigal@univ-pau.fr
+64013 PAU CEDEX
 
 I am a biogeographer with broad interests in island biogeography, community ecology, macroecology, evolution and biodiversity research. My main research aims to understand the role of historical and ecological processes in shaping communities – in particular insular communities - and to understanding and quantifying the response of communities to human-mediated disturbances.
 
@@ -27,6 +26,6 @@ Since 2010, I am involved in/leading several projects on island ecology and I ha
 I also act as an associate editor for [Community Ecology Journal](https://www.springer.com/journal/42974?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAiMDLtfF02NfwwHAN0LQV29fHmzH9V78VvYw9jVaIW4owpbzzpB64BoCvH8QAvD_BwE) and [PlosOne](https://plosone.org) and have reviewed manuscripts for the journals Ecography, Journal of Natural History, Journal of Insect Conservation, Journal of Biogeography, Global Ecology and Biogeography, Continental Shelf Research, Community Ecology, PlosOne, Proceedings of the Royal Society of London B, Ecological Indicators, Frontiers in Biogeography, Ecology, Science of Total Environment, Biodiversity and Conservation.
 
 
-I am also member of the [International Biogeogrpahical Society](https://www.biogeography.org) and [la Société Française d’Ecologie et d'évolution](https://www.sfecologie.org).
+I am also member of the [International Biogeographical Society](https://www.biogeography.org) and [la Société Française d’Ecologie et d'évolution](https://www.sfecologie.org).
 
 {{< figure library="true" src="word.png" title="" lightbox="true" >}}
