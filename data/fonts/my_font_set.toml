@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Pragati+Narrow"
+google_fonts = "IBM+Plex+Serif"
 
 # Font families
-heading_font = "Pragati Narrow"
-body_font = "Pragati Narrow"
-nav_font = "Pragati Narrow"
-mono_font = "Pragati Narrow"
+heading_font = "IBM Plex Serif"
+body_font = "IBM Plex Serif"
+nav_font = "IBM Plex Serif"
+mono_font = "IBM Plex Serif"
