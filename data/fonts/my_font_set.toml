@@ -5,7 +5,7 @@ name = "Minimal"
 google_fonts = "Muli:wght@300"
 
 # Font families
-heading_font = "Fira Sans Condensed"
+heading_font = "Muli"
 body_font = "Muli"
 nav_font = "Muli"
 mono_font = "Muli"
