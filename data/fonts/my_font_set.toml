@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Muli:wght@300"
+google_fonts = "Hind+Madurai:wght@300"
 
 # Font families
-heading_font = "Muli"
-body_font = "Muli"
-nav_font = "Muli"
-mono_font = "Muli"
+heading_font = "Hind Madurai"
+body_font = "Hind Madurai"
+nav_font = "Hind Madurai"
+mono_font = "Hind Madurai"
