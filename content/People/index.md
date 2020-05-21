@@ -7,6 +7,8 @@ weight = 5  # Order that this section will appear in.
 title = ""
 +++
 
+## PhD position open at the University of Pau (France) to study Macroecological and Macroevolutionary Patterns of Island Radiation
+We search for a highly motivated PhD candidate to work on the global macroecological/macroevolutionary patterns of island radiation. Link to the official annoucement [here](https://ed-sea.univ-pau.fr/_attachments/offre-de-these-article/PhDProjectRigal2020_IslandRadiation.pdf?download=true)
 
 ## PhD students
 
