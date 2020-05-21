@@ -23,7 +23,7 @@ Since 2010, I am involved in/leading several projects on island ecology and I ha
 
 
 
-I also act as an associate editor for [Community Ecology Journal](https://www.springer.com/journal/42974?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAiMDLtfF02NfwwHAN0LQV29fHmzH9V78VvYw9jVaIW4owpbzzpB64BoCvH8QAvD_BwE) and [PlosOne](https://plosone.org) and have reviewed manuscripts for the journals Ecography, Journal of Natural History, Journal of Insect Conservation, Journal of Biogeography, Global Ecology and Biogeography, Continental Shelf Research, Community Ecology, PlosOne, Proceedings of the Royal Society of London B, Ecological Indicators, Frontiers in Biogeography, Ecology, Science of Total Environment, Biodiversity and Conservation.
+I also act as an associate editor for [Community Ecology Journal](https://www.springer.com/journal/42974?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAiMDLtfF02NfwwHAN0LQV29fHmzH9V78VvYw9jVaIW4owpbzzpB64BoCvH8QAvD_BwE) and [PlosOne](https://plosone.org) and have reviewed manuscripts for the journals _Ecography_, _Journal of Natural History_, _Journal of Insect Conservation_, _Journal of Biogeography_, _Global Ecology and Biogeography_, _Continental Shelf Research_, _Community Ecology_, _PlosOne_, _Proceedings of the Royal Society of London B_, _Ecological Indicators_, _Frontiers in Biogeography_, _Ecology_, _Science of Total Environment_, _Biodiversity and Conservation_.
 
 
 I am also member of the [International Biogeographical Society](https://www.biogeography.org) and [la Société Française d’Ecologie et d'évolution](https://www.sfecologie.org).
