@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "IBM+Plex+Serif"
+google_fonts = "Roboto:wght@300"
 
 # Font families
-heading_font = "IBM Plex Serif"
-body_font = "IBM Plex Serif"
-nav_font = "IBM Plex Serif"
-mono_font = "IBM Plex Serif"
+heading_font = "Roboto"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto"
