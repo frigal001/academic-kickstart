@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am a biogeographer with broad interests in island biogeography, community ecology, macroecology, biostatistics and biodiversity research. My main research aims to understand the role of historical and ecological processes in shaping (insular) communities and to understanding and quantifying the response of biodiversity to human-mediated disturbances (land-use change and species invasions). I work mainly on the Macaronesian islands using arthropods as model organisms.
+I am a biogeographer with broad interests in island biogeography, community ecology and biostatistics. I apply a combination of theoretical and empirical methods to understand the role of historical and ecological processes in shaping community structure, including functional and phylogenetic community-based approaches.  I am also interested in quantifying the response of island biodiversity to anthropogenic activities, mainly land-use change and species invasions.
 
 ## News: PhD position open at the University of Pau (France)
 We search for a highly motivated PhD candidate to work on the global macroecological/macroevolutionary patterns of island radiation. Deadline 15 June 2020. Link to the official annoucement [here](https://ed-sea.univ-pau.fr/_attachments/offre-de-these-article/PhDProjectRigal2020_IslandRadiation.pdf?download=true).
