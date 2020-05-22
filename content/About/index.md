@@ -9,7 +9,7 @@ title = ""
 
 {{< figure library="true" src="rigal.jpg" title="" lightbox="false">}}
 
-**Present address**
+**Present address:**
 Université de Pau et des Pays de l'Adour
 UMR UPPA-CNRS 5254 IPREM
 IBEAS BP 1155 Avenue de l'Université 
