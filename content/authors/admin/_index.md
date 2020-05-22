@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-{{< figure library="true" src="AZORES.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="PANO9.jpg" title="" lightbox="true" >}}
 
 I am a biogeographer with broad interests in island biogeography, community ecology, macroecology, biostatistics and biodiversity research. My main research aims to understand the role of historical and ecological processes in shaping insular communities and to understanding and quantifying the response of island biodiversity to human-mediated disturbances. 
 
