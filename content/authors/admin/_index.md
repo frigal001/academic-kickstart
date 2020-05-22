@@ -67,11 +67,11 @@ user_groups:
 - Visitors
 ---
 
-{{< figure library="true" src="PANO9.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="PANO9.jpg" title="" lightbox="false" >}}
 
-I am a biogeographer with broad interests in island biogeography, community ecology, macroecology, biostatistics and biodiversity research. My main research aims to understand the role of historical and ecological processes in shaping insular communities and to understanding and quantifying the response of island biodiversity to human-mediated disturbances. 
+I am a biogeographer with broad interests in island biogeography, community ecology, macroecology, biostatistics and biodiversity research. My main research aims to understand the role of historical and ecological processes in shaping (insular) communities and to understanding and quantifying the response of biodiversity to human-mediated disturbances (mainly land-use change and species invasions). I work mainly on the Macaronesian islands using arthropods as mode organisms.
 
-Since 2015, I am an Assistant Professor at the [Université  de Pau et des Pays de l'Adour (UPPA)](https://www.univ-pau.fr/) where I am in charge of the biostatistics courses for undergraduate and graduate students in biology. I am member of the [UMR 5254 CNRS-UPPA IPREM](https://iprem.univ-pau.fr/fr/index.html) and an external collaborator of the [Centre for Ecology, Evolution and Environmental Changes (cE3c)](https://ce3c.ciencias.ulisboa.pt) of the University of Lisbon. 
+## News:PhD position open at the University of Pau (France)
+We search for a highly motivated PhD candidate to work on the global macroecological/macroevolutionary patterns of island radiation. Link to the official annoucement [here](https://ed-sea.univ-pau.fr/_attachments/offre-de-these-article/PhDProjectRigal2020_IslandRadiation.pdf?download=true) .
 
-I also act as an associate editor for [Community Ecology Journal](https://www.springer.com/journal/42974?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAoXv9dE_mz3KkHrMiCbr4mDFcWWXxnudxA4imJc1JipbVVd_8Cj1CRoCE8QQAvD_BwE) and [PlosOne](https://plosone.org).
 
