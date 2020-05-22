@@ -7,7 +7,7 @@ weight = 6  # Order that this section will appear in.
 title = ""
 +++
 
-{{< figure library="true" src="rigal.jpg" title="" lightbox="true">}}
+{{< figure library="true" src="rigal.jpg" title="" lightbox="false">}}
 
 **Present address**
 Université de Pau et des Pays de l'Adour
@@ -28,4 +28,4 @@ I also act as an associate editor for [Community Ecology Journal](https://www.sp
 
 I am also member of the [International Biogeographical Society](https://www.biogeography.org) and [la Société Française d’Ecologie et d'évolution](https://www.sfecologie.org).
 
-{{< figure library="true" src="word.png" title="" lightbox="true" >}}
+{{< figure library="true" src="word.png" title="" lightbox="false" >}}
