@@ -30,6 +30,8 @@ title = ""
 * [**Jose Carlos Carvalho**](https://sites.google.com/site/jccarvalhoweb/) -  University of Minho, Portugal
 * [**Margarida Florencio**](https://www.researchgate.net/profile/Margarita_Florencio) -  Universidad Autónoma de Madrid, Spain
 * [**Ana Margarida Santos**](https://guidasanto1.wixsite.com/guida) -  Universidad Autónoma de Madrid, Spain
+* [**Simone Fattorini**](https://scholar.google.pt/citations?user=plzJQ98AAAAJ&hl=pt-PT) -  University of L'Aquila, Italy
+
 
 
 
