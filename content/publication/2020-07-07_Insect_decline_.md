@@ -1,6 +1,6 @@
 +++
 title = "Increase of insular exotic arthropod diversity is a fundamental dimension of the current biodiversity crisis"
-date = "2020-07-07"
+date = "2020-06-06"
 authors = ["P.A.V. Borges","**F. Rigal**","A. Ros-Prieto","P. Cardoso"]
 publication_types = ["2"]
 publication = "**_Insect Conservation and Diversity_**, _(in press)_"
